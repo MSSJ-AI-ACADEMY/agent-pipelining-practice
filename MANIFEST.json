@@ -1,0 +1,82 @@
+[
+ {
+  "chapter": "2",
+  "source": "실습2_첫일과허락_원고_v0.6.md",
+  "line": 71,
+  "file": "practice02/brief/shop.md",
+  "lines": 9,
+  "sha256": "8bcac28016b87f5c0f941e184f69f09e0af1c38061d287988034cc977ee886e6"
+ },
+ {
+  "chapter": "2",
+  "source": "실습2_첫일과허락_원고_v0.6.md",
+  "line": 272,
+  "file": "practice02/.claude/settings.json",
+  "lines": 9,
+  "sha256": "8fe8be17dbbef6b3b608295f7daa606f873eb963dd859cb0329390f469d453f7"
+ },
+ {
+  "chapter": "3",
+  "source": "실습3_광고팀규칙_원고_v0.6.md",
+  "line": 101,
+  "file": "practice03/CLAUDE.md",
+  "lines": 28,
+  "sha256": "08be2928352fc66c554fdf53e9428e3e44b98d07715c4f939262d785072129b7"
+ },
+ {
+  "chapter": "5",
+  "source": "실습5_주문서스킬_원고_v0.6.md",
+  "line": 59,
+  "file": "practice05/.claude/skills/video-order/SKILL.md",
+  "lines": 25,
+  "sha256": "6a7ef6ef64181ad799d059805272129a5ae8cdc66a9eecc51e712cfbc65ab7c9"
+ },
+ {
+  "chapter": "5",
+  "source": "실습5_주문서스킬_원고_v0.6.md",
+  "line": 170,
+  "file": "practice05/.claude/skills/video-order/scripts/order_check.py",
+  "lines": 19,
+  "sha256": "1040f755ca3ac8ccab94067923db15cad1f3a8b90e9413fabee3bbbc23b6d54b"
+ },
+ {
+  "chapter": "7",
+  "source": "실습7_담당나누기_원고_v0.5.md",
+  "line": 61,
+  "file": "practice07/.claude/agents/planner.md",
+  "lines": 23,
+  "sha256": "0f421d335e058a9ff4ff255e46d919537a40abc03acd2e23b0adff7164d6a80c"
+ },
+ {
+  "chapter": "7",
+  "source": "실습7_담당나누기_원고_v0.5.md",
+  "line": 98,
+  "file": "practice07/brief/criteria.md",
+  "lines": 6,
+  "sha256": "30ae8bca2a36ba83893cde1d0a598073212b2a4439cdf90bd4ee281decb9b681"
+ },
+ {
+  "chapter": "8",
+  "source": "실습8_훅으로검사_원고_v0.5.md",
+  "line": 70,
+  "file": "practice08/.claude/hooks/check_order.py",
+  "lines": 25,
+  "sha256": "7fcbbd8b4037996c373be23033179a3850df5e5d1c14accd668ea8b3232fb205"
+ },
+ {
+  "chapter": "8",
+  "source": "실습8_훅으로검사_원고_v0.5.md",
+  "line": 181,
+  "file": "practice08/.claude/hooks/need_approval.py",
+  "lines": 24,
+  "sha256": "e03c0ddfb83a0c078fd83a49790d01788ed1ba6419b201072efb491d8e1e6096"
+ },
+ {
+  "chapter": "10A",
+  "source": "실습10A_합격시험전문_원고_v0.2.md",
+  "line": 7,
+  "file": "practice10/chain/chain_test.py",
+  "lines": 86,
+  "sha256": "aa41e77577c4acb225b0863783d773334ff0ff8cf86b191eca115417104bce40"
+ }
+]

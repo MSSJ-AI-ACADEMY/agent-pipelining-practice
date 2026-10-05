@@ -1,0 +1,55 @@
+{
+ "doc": "README.md",
+ "pass": false,
+ "checks": {
+  "G1_리듬": {
+   "ok": false,
+   "value": 0.423,
+   "need": ">= 0.593"
+  },
+  "G2_첫머리되풀이": {
+   "ok": true,
+   "value": 0.0,
+   "need": "<= 0.075"
+  },
+  "G3_겹화살괄호": {
+   "ok": true,
+   "value": 0.0,
+   "need": "== 0"
+  },
+  "G4_따옴표": {
+   "ok": true,
+   "value": 0.0,
+   "need": "<= 2.54"
+  },
+  "G5_니다종결": {
+   "ok": true,
+   "value": 0.826,
+   "need": "<= 0.927"
+  }
+ },
+ "measures": {
+  "chars": 848,
+  "sentences": 23,
+  "sent_mean": 35.7,
+  "sent_median": 34,
+  "sent_cv": 0.423,
+  "first_word_top10_share": 0.478,
+  "repeated_2word_opening_share": 0.0,
+  "connectives_per_k": 0.0,
+  "analogy_per_k": 0.0,
+  "quote_marks_per_k": 0.0,
+  "paren_per_k": 5.9,
+  "question_share": 0.0,
+  "yeoreobun_per_k": 0.0,
+  "nida_share": 0.826,
+  "list_line_share": 0.375,
+  "ai_태도선언_per_k": 0.0,
+  "ai_대조틀_per_k": 1.18,
+  "ai_긴줄표_per_k": 0.0,
+  "ai_흐린대용_per_k": 0.0,
+  "ai_상투결구_per_k": 0.0,
+  "ai_겹화살괄호_per_k": 0.0,
+  "ai_짚다류_per_k": 0.0
+ }
+}
